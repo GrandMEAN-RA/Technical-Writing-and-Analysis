@@ -5,7 +5,7 @@
 
 ---
 
-## Project Overview
+## Project Overview  
 
 	This project demonstrates structured analysis of public macroeconomic data retrieved via the World Bank Open Data API. The objective is to extract, validate, and communicate insights from JSON-based economic indicators — with an emphasis on reproducibility, documentation clarity, and business interpretation.
 
