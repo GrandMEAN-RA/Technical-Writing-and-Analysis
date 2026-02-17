@@ -65,6 +65,8 @@ import requests
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import json
+from google.colab import files
 
 """###**Problem Statement**
 ####**How do inflation trends and GDP growth rates affect macroeconomic stability in selected African economies?**
@@ -127,9 +129,14 @@ response = requests.get(url)
 data = response.json()
 
 #Inspect Data Structure
-print(data)
 print(type(data))
 print(len(data))
+
+#Save to file
+filename = 'inflation_api_response_data.json'
+with open(filename, 'w') as f:
+    json.dump(data, f, indent=4)
+files.download(filename)
 
 #GDP JSON Data Ingestion:
 
@@ -138,9 +145,14 @@ response = requests.get(url)
 data = response.json()
 
 #Inspect Data Structure
-print(data)
 print(type(data))
 print(len(data))
+
+#Save to file
+filename = 'inflation_api_response_data.json'
+with open(filename, 'w') as f:
+    json.dump(data, f, indent=4)
+files.download(filename)
 
 """####**JSON Data Structure**
 The returned JSON is a list containing a dictionary and a list:

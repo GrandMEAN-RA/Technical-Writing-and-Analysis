@@ -1,0 +1,3132 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 195,
+        "sourceid": "2",
+        "lastupdated": "2026-01-28"
+    },
+    [
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2024",
+            "value": 22.8483281157842,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2023",
+            "value": 38.1069656296501,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2022",
+            "value": 31.2558951049016,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2021",
+            "value": 9.9710886750444,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2020",
+            "value": 9.88728956269944,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2019",
+            "value": 7.14364003330857,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2018",
+            "value": 7.80876516610703,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2017",
+            "value": 12.3719215507048,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2016",
+            "value": 17.4546347070868,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2015",
+            "value": 17.1499695007878,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2014",
+            "value": 15.4896160333318,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2013",
+            "value": 11.6661923071729,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2012",
+            "value": 11.1863409441067,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2011",
+            "value": 8.7284593709302,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2010",
+            "value": 10.7333898354915,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2009",
+            "value": 19.2469482220857,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2008",
+            "value": 16.494639613412,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2007",
+            "value": 10.7342665456292,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2006",
+            "value": 11.6791839392492,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2005",
+            "value": 15.4389920155908,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2004",
+            "value": 18.0427388232565,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2003",
+            "value": 29.7729797160384,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2002",
+            "value": 9.36093239560313,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2001",
+            "value": 41.509496287803,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "2000",
+            "value": 40.240933123914,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1999",
+            "value": 4.86539785077528,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1998",
+            "value": 14.6241666666675,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1997",
+            "value": 27.8852086407527,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1996",
+            "value": 46.5610196762282,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1995",
+            "value": 59.4615536991446,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1994",
+            "value": 24.8702554369576,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1993",
+            "value": 24.9598424742497,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1992",
+            "value": 10.0561167448841,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1991",
+            "value": 18.0314390089849,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1990",
+            "value": 37.2590664855671,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1989",
+            "value": 25.2236920295825,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1988",
+            "value": 31.3592676264768,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1987",
+            "value": 39.8150678775363,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1986",
+            "value": 24.5654160765001,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1985",
+            "value": 10.3054406698295,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1984",
+            "value": 39.6653137947268,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1983",
+            "value": 122.874514572592,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1982",
+            "value": 22.2955664080893,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1981",
+            "value": 116.503603996541,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1980",
+            "value": 50.0701393436364,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1979",
+            "value": 54.4412883345616,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1978",
+            "value": 73.091666667343,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1977",
+            "value": 116.450216453639,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1976",
+            "value": 56.0810810829756,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1975",
+            "value": 29.8245614048168,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1974",
+            "value": 18.1347150268463,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1973",
+            "value": 17.6829268231711,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1972",
+            "value": 10.0671140939595,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1971",
+            "value": 9.55882353746772,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1970",
+            "value": 3.03030303053265,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1969",
+            "value": 7.31707316260125,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1968",
+            "value": 7.89473684210539,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1967",
+            "value": -8.42248589780283,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1966",
+            "value": 13.2378854626539,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1965",
+            "value": 26.4447848490173,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1964",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1963",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1962",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1961",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "GH",
+                "value": "Ghana"
+            },
+            "countryiso3code": "GHA",
+            "date": "1960",
+            "value": null,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2024",
+            "value": 4.48978854243448,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2023",
+            "value": 7.67139634029402,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2022",
+            "value": 7.65986268272224,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2021",
+            "value": 6.10793603659176,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2020",
+            "value": 5.40516207933392,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2019",
+            "value": 5.23963795764792,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2018",
+            "value": 4.6898064677633,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2017",
+            "value": 8.00564967709945,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2016",
+            "value": 6.29724953814625,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2015",
+            "value": 6.58215429284779,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2014",
+            "value": 6.87815499275949,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2013",
+            "value": 5.71749357037733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2012",
+            "value": 9.37777003547598,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2011",
+            "value": 14.0224913014704,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2010",
+            "value": 3.96138889115385,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2009",
+            "value": 9.23412592394652,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2008",
+            "value": 26.2398166445063,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2007",
+            "value": 9.75888023027529,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2006",
+            "value": 14.4537342081708,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2005",
+            "value": 10.3127783574683,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2004",
+            "value": 11.6240355442426,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2003",
+            "value": 9.81569062979654,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2002",
+            "value": 1.96130821739162,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2001",
+            "value": 5.73859814341467,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "2000",
+            "value": 9.98002515350979,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1999",
+            "value": 5.74200109520484,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1998",
+            "value": 6.72243650753928,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1997",
+            "value": 11.3618450505783,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1996",
+            "value": 8.86408741577522,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1995",
+            "value": 1.55432816055009,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1994",
+            "value": 28.8143894306731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1993",
+            "value": 45.9788813036218,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1992",
+            "value": 27.3323644475784,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1991",
+            "value": 20.0844955754632,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1990",
+            "value": 17.78181442992,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1989",
+            "value": 13.7893172763883,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1988",
+            "value": 12.2649630481582,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1987",
+            "value": 8.63767318980084,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1986",
+            "value": 2.53427598892888,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1985",
+            "value": 13.0065664218827,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1984",
+            "value": 10.284098213138,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1983",
+            "value": 11.3977827368523,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1982",
+            "value": 20.6667146662827,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1981",
+            "value": 11.6030534351142,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1980",
+            "value": 13.8581814562484,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1979",
+            "value": 7.97935261848786,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1978",
+            "value": 16.9317824582842,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1977",
+            "value": 14.8209644818935,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1976",
+            "value": 11.4490304932756,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1975",
+            "value": 19.1201840136051,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1974",
+            "value": 17.8099480331818,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1973",
+            "value": 9.28119422332106,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1972",
+            "value": 5.83164474311005,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1971",
+            "value": 3.78020612544907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1970",
+            "value": 2.18852703907439,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1969",
+            "value": -0.17150100656233,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1968",
+            "value": 0.366711570051019,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1967",
+            "value": 1.75919579598299,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1966",
+            "value": 5.01439539323414,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1965",
+            "value": 3.57852882806742,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1964",
+            "value": -0.0993048669314341,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1963",
+            "value": 0.697674418604589,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1962",
+            "value": 3.11750599520378,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1961",
+            "value": 2.45700245700254,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "KE",
+                "value": "Kenya"
+            },
+            "countryiso3code": "KEN",
+            "date": "1960",
+            "value": 1.24378109452731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2024",
+            "value": 33.2420966545406,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2023",
+            "value": 24.659550203114,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2022",
+            "value": 18.8471877843274,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2021",
+            "value": 16.9528457221608,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2020",
+            "value": 13.2460234276597,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2019",
+            "value": 11.3964223378116,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2018",
+            "value": 12.0951065173432,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2017",
+            "value": 16.5022662139641,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2016",
+            "value": 15.6968126387972,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2015",
+            "value": 9.00943498007706,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2014",
+            "value": 8.04741087967907,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2013",
+            "value": 8.49551838265669,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2012",
+            "value": 12.2242413020584,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2011",
+            "value": 10.8261371880017,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2010",
+            "value": 13.7400521363694,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2009",
+            "value": 12.5378277304689,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2008",
+            "value": 11.5810751748252,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2007",
+            "value": 5.38800796858626,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2006",
+            "value": 8.22522152017047,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2005",
+            "value": 17.8634933661605,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2004",
+            "value": 14.9980338183251,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2003",
+            "value": 14.0317836131437,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2002",
+            "value": 12.8765792031099,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2001",
+            "value": 18.8736462093863,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "2000",
+            "value": 6.93329215565161,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1999",
+            "value": 6.61837339479751,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1998",
+            "value": 9.99637812386806,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1997",
+            "value": 8.52987421383634,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1996",
+            "value": 29.2682926829271,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1995",
+            "value": 72.8355022972638,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1994",
+            "value": 57.0317089119659,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1993",
+            "value": 57.1652528349217,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1992",
+            "value": 44.588842715023,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1991",
+            "value": 13.0069731037428,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1990",
+            "value": 7.36440030557696,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1989",
+            "value": 50.4666881235915,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1988",
+            "value": 54.5112247797673,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1987",
+            "value": 11.2903225806451,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1986",
+            "value": 5.71715145436302,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1985",
+            "value": 7.43534482758635,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1984",
+            "value": 17.8205332860842,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1983",
+            "value": 23.2123315511559,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1982",
+            "value": 7.69774724714249,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1981",
+            "value": 20.8128229121949,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1980",
+            "value": 9.97226199001424,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1979",
+            "value": 11.7097306212118,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1978",
+            "value": 21.7092457416665,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1977",
+            "value": 15.0878340572687,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1976",
+            "value": 24.2999999999997,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1975",
+            "value": 33.9641883221776,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1974",
+            "value": 12.674393177433,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1973",
+            "value": 5.4026644539422,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1972",
+            "value": 3.457649752015,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1971",
+            "value": 15.9991148482235,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1970",
+            "value": 13.757079924793,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1969",
+            "value": 10.155979202822,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1968",
+            "value": -0.476059059060833,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1967",
+            "value": -3.72633676514216,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1966",
+            "value": 9.69034608375118,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1965",
+            "value": 4.10345873811619,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1964",
+            "value": 0.856793145737554,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1963",
+            "value": -2.69465535232731,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1962",
+            "value": 5.26563234621733,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1961",
+            "value": 6.27914723477514,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "FP.CPI.TOTL.ZG",
+                "value": "Inflation, consumer prices (annual %)"
+            },
+            "country": {
+                "id": "NG",
+                "value": "Nigeria"
+            },
+            "countryiso3code": "NGA",
+            "date": "1960",
+            "value": 5.4443273618724,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
