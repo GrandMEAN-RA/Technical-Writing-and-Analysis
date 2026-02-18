@@ -142,16 +142,20 @@ The notebook emphasizes transparency in assumptions and methodological traceabil
 ## Repository Structure
 
 	```
-	01-json-economic-analysis/
+	Global Economic Indicators & Business Risk Insights/
 	│
 	├── economic_risk_analysis.ipynb
+	├── economic_risk_analysis.py
 	├── data/
 	│   └── inflation_api_response.json
 	│   └── gdp_api_response.json
 	├── outputs/
 	│   ├── gdp.csv
 	│   ├── inflation.csv
-	│   └── visualizations/
+	│   └── charts/
+	│   │	├── inflation.png
+	│   │	├── gdp.png
+	│   │	├── scatter.png
 	└── requirements.txt
 	```
 
