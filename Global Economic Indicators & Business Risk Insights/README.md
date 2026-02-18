@@ -1,8 +1,6 @@
 ---
 # Public API JSON Economic Analysis
-
 **Macroeconomic Stability & Business Risk Assessment**
-
 ---
 
 ## Project Overview  
