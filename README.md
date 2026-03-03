@@ -5,7 +5,7 @@
 
 	This repository demonstrates structured technical documentation and data analysis workflows aligned
 	with analytical content production requirements. Each project emphasizes:
-
+            
 	- JSON data handling and normalization
 
 	- Public dataset analysis
